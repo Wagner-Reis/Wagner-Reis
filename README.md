@@ -1,15 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Wagner-Reis/Wagner-Reis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá 👋
+Seja bem vindo ao meu perfil!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-Here are some ideas to get you started:
+- 🔭 Trabalhando na área de suporte            
+- 📫 wagnerbsm5@gmail.com
+- 🌱 Aprendendo Progamação  
+- <a href="https://www.linkedin.com/in/wagner-reis-34b412188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>                
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wagner-Reis&show_icons=true&count_private=true&hide_border=true&title_color=F8F8FF&icon_color=FF0000text_color=F8F8FF&bg_color=000000" alt="Wagner Reis github stats" /> 
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-Reis&layout=compact&hide_border=true&title_color=F8F8FF&text_color=FFFAFA&bg_color=000000" />
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about  ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
